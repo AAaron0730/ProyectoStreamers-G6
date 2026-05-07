@@ -12,6 +12,7 @@ public class Proyecto {
 		MongoClient mongoClient = MongoClients.create(uri);
 		MongoDatabase mongoDatabase =  mongoClient.getDatabase("ProyectoStreamersG6");
 		
+		String prueba;
 	}
 		
 }
